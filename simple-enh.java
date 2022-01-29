@@ -3,6 +3,6 @@ class Simple{
 	{
 
 		System.out.println("Hello edureka");
-		System.out.println("HelloWorld");
+		
 }
 }
